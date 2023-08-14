@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BranchCleaner",
+    "\\BranchCleanerDll",
+    "\\BranchCleanerDll\\Repository",
+    "\\BranchCleaner\\Controllers"
+  ],
+  "SelectedNode": "\\BranchCleaner\\Controllers\\BranchCleaner.cs",
+  "PreviewInSolutionExplorer": false
+}
